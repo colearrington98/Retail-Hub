@@ -1,4 +1,5 @@
 # Retail-Hub
+![Screenshot 2023-05-06 021009](https://user-images.githubusercontent.com/119268105/236609081-84913097-9800-422f-9e6f-860d96e61805.png)
 
 ## Description
 Retail Hub is a simple e-commerce platform where users can browse and purchase products, view and manage their cart, and search products by category or tag.
@@ -30,6 +31,7 @@ DB_Password=your_db_password
 The can application can be used to view, add, update, and delete products, categories, and tags. The application can also be used to view, add, update, and delete product tags in a shopping cart.
 
 ## Demo
+https://drive.google.com/file/d/1pMCNaWLcYNewDz1Yjnwu09RCgiBBDxCg/view
 
 ## Contributing
 If you would like to contribute to this project, please open an issue and/or create a pull request.
